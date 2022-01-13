@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3865d46b-f91b-4e1f-9940-e86845124dcf": {
+      "ProjectGuid": "3865d46b-f91b-4e1f-9940-e86845124dcf",
+      "DisplayName": "laba5",
+      "ColorIndex": 0
+    },
+    "5bbed985-4f40-459d-bf1c-216e53375074": {
+      "ProjectGuid": "5bbed985-4f40-459d-bf1c-216e53375074",
+      "DisplayName": "bot_vk",
+      "ColorIndex": 1
+    },
+    "a6df3cbb-3a1f-4edc-b104-8cc00de838b2": {
+      "ProjectGuid": "a6df3cbb-3a1f-4edc-b104-8cc00de838b2",
+      "DisplayName": "botVk",
+      "ColorIndex": 2
+    },
+    "6a1c3e09-e0f6-4aa9-a4ca-bbe1f32dc364": {
+      "ProjectGuid": "6a1c3e09-e0f6-4aa9-a4ca-bbe1f32dc364",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "a3b0319d-a6d7-48a3-8a4f-e7ee8dd8ff5b": {
+      "ProjectGuid": "a3b0319d-a6d7-48a3-8a4f-e7ee8dd8ff5b",
+      "DisplayName": "GetInfo",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "42c8bfc4-1a3c-4de7-91bf-f118fe347132": {
+      "ProjectGuid": "42c8bfc4-1a3c-4de7-91bf-f118fe347132",
+      "DisplayName": "botMessage",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

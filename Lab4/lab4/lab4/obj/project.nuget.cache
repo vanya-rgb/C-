@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mBmmP6OIC0LJkSQhxgzX1RX/7dOsgGghNGhtGmHzcG8ZzHSZRs5q5T1DIJkRQzqpUaqGlySzUjzsqEMZ9mKwcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vanya\\Desktop\\ЮУрГУ\\3 семестр\\С#\\my\\Lab4\\lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vanya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

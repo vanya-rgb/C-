@@ -1,0 +1,12 @@
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.AssemblyInfo.cs
+C:\Users\Anna\Desktop\qwe\bin\Debug\net47\Lab1.exe
+C:\Users\Anna\Desktop\qwe\bin\Debug\net47\Lab1.pdb
+C:\Users\Anna\Desktop\qwe\bin\Debug\net47\DocumentFormat.OpenXml.dll
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.csproj.CopyComplete
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.exe
+C:\Users\Anna\Desktop\qwe\obj\Debug\net47\Lab1.pdb
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\my\Lab1\obj\Debug\net47\Lab1.exe
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\my\Lab1\obj\Debug\net47\Lab1.pdb

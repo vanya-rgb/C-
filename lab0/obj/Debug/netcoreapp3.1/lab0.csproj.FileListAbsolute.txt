@@ -1,0 +1,13 @@
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.exe
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.deps.json
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.runtimeconfig.json
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.runtimeconfig.dev.json
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.dll
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\bin\Debug\netcoreapp3.1\lab0.pdb
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.AssemblyInfoInputs.cache
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.AssemblyInfo.cs
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.dll
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.pdb
+C:\Users\Vanya\Desktop\ЮУрГУ\3 семестр\С#\lab0\obj\Debug\netcoreapp3.1\lab0.genruntimeconfig.cache

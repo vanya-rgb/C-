@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfManagementCompany xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManagementCompany xsi:type="ResidentialBuilding">
+    <Type>lenina80</Type>
+    <Flats>Ленина 80</Flats>
+    <Count>170</Count>
+  </ManagementCompany>
+  <ManagementCompany xsi:type="ResidentialBuilding">
+    <Type>lynacharskogo8</Type>
+    <Flats>Луначарского 8</Flats>
+    <Count>201</Count>
+  </ManagementCompany>
+  <ManagementCompany xsi:type="ResidentialBuilding">
+    <Type>lenina76</Type>
+    <Flats>Ленина 76</Flats>
+    <Count>122</Count>
+  </ManagementCompany>
+  <ManagementCompany xsi:type="OfficeBuilding">
+    <Type>tatynicheva11</Type>
+    <Flats>Татьяничевой 11</Flats>
+    <Square>1200</Square>
+  </ManagementCompany>
+</ArrayOfManagementCompany>

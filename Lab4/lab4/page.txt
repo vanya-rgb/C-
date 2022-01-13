@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="South Ural State University RSS" href="https://www.susu.ru/en/rss.xml" />
+<link rel="shortcut icon" href="https://www.susu.ru/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+  <title>South Ural State University</title>
+  <link type="text/css" rel="stylesheet" href="https://www.susu.ru/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.susu.ru/sites/default/files/css/css_DHcXHPYBSjIVaCQZEG4ZlpLkvslnFlBCnQUCzlbRBio.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.susu.ru/sites/default/files/css/css_f4oD-sy7Z6vywtS-ueoEM8OIk-O4e-ri0UdBE9tVaHM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.susu.ru/sites/default/files/css/css_NgbgRSlIPFTU2tET6kkfnwsQ4bCt0XdnmJiQ3I5FQ_I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.susu.ru/sites/default/files/css/css_Cy11GnV7CJSXCYlWkVCey4L4I_nbpivQ6jHUEDMj7pQ.css" media="all" />
+  <link rel="search" href="/opensearch.xml" title="Search - South Ural State University" type="application/opensearchdescription+xml">
+  <!-- HTML5 element / Media queries support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/boot2017/js/html5shiv.min.js"></script>
+    <script src="/sites/all/themes/boot2017/js/respond.min.js"></script>
+  <![endif]-->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.susu.ru/sites/default/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.susu.ru/sites/default/files/js/js_FVhN18bbqzYEkTilvl31hOmd8NQtZUZya3wnwWYKd_Y.js"></script>
+<script src="https://www.susu.ru/sites/default/files/js/js_-b0ewpvfqFEKz_rOiBCcePGv-9u3LDcsa8_GCHMidFM.js"></script>
+<script src="https://www.susu.ru/sites/default/files/js/js_BsL1NsinW4dRiXlDnpdHsqH9vi542Uoa5EXESIUjXNk.js"></script>
+<script src="https://www.susu.ru/sites/default/files/js/js_HLPhb-4bikD-LUuPzbETxbQEEcA_-TOZ5n-OJjnyYLY.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"boot2017","theme_token":"NWedVoHO4349Se08eJ_FpwTGiUoofDiOxcNqxsOaSKg","jquery_version":"1.10","js":{"0":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/geo_filter\/geo_filter.js":1,"sites\/all\/modules\/contrib\/typo\/js\/typo.template.js":1,"sites\/all\/modules\/contrib\/typo\/js\/typo.selection.js":1,"sites\/all\/modules\/contrib\/typo\/js\/typo.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/bootstrap_carousel\/scripts\/bootstrap_carousel.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/boot2017\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/boot2017\/js\/jquery.mobile.custom.min.js":1,"sites\/all\/themes\/boot2017\/js\/swipe-front.js":1,"sites\/all\/themes\/boot2017\/js\/prevent-empty-search.js":1,"sites\/all\/themes\/boot2017\/js\/first-word-uppercase.js":1,"sites\/all\/themes\/boot2017\/js\/detect-flash.js":1,"sites\/all\/themes\/boot2017\/js\/gtm.js":1,"sites\/all\/themes\/boot2017\/js\/a11y.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/ctools\/js\/modal.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/columns_filter\/columns_filter.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/sphinxdrupal\/sphinxdrupal.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.bare.css":1,"sites\/all\/modules\/contrib\/typo\/css\/typo.css":1,"sites\/all\/modules\/ctools\/css\/modal.css":1,"sites\/all\/themes\/boot2017\/css\/style.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.80","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u2190","next":"\u2192","close":"\u00d7","overlayClose":true,"returnFocus":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"300","initialHeight":"100","fixed":true,"scrolling":false,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EWe use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;Thank you for accepting cookies\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You can now hide this message or find out more about cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":1,"popup_height":"auto","popup_width":0,"popup_delay":1000,"popup_link":"https:\/\/www.susu.ru\/sites\/default\/files\/book\/politika_pdn.pdf","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":0,"popup_eu_only_js":0,"cookie_lifetime":"365","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003E\u0026lt;h2\u0026gt;We use cookies on this site to enhance your user experience\u0026lt;\/h2\u0026gt;\u0026lt;p\u0026gt;You have given your consent for us to set cookies.\u0026lt;\/p\u0026gt;\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":0,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":1,"cookie_name":"","containing_element":"body","automatic_cookies_removal":""},"typo":{"max_chars":300},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.susu.ru\/sites\/all\/modules\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.susu.ru\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"TypoModal":{"loadingText":"Send typo report","closeText":"close","closeImage":"","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022img-responsive\u0022 src=\u0022https:\/\/www.susu.ru\/sites\/all\/modules\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E","modalTheme":"TypoModalDialog","animation":"show","animationSpeed":"fast","modalSize":{"type":"scale","width":"560px","height":"250px","addWidth":0,"addHeight":0,"contentRight":25,"contentBottom":45},"modalOptions":{"opacity":0.55,"background":"#000"}},"ajax":{"edit-send-typo-report":{"callback":"_typo_save_report","wrapper":"typo-report-result","method":"append","effect":"fade","event":"mousedown","keypress":true,"prevent":"click","url":"\/en\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send typo report"}}},"urlIsAjaxTrusted":{"\/en\/system\/ajax":true,"\/en":true},"bootstrap_carousel":{"interval":"5000","pause":"hover"},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="host-www_susu_ru html front not-logged-in no-sidebars page-node i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header role="banner" class="container">
+  <div class="logo-name">
+          <a class="logo" href="/en" title="South Ural State University - Home"><img src="/sites/all/themes/boot2017/logo/en/wider/2400.png" alt="South Ural State University (national research university)" class="visible-print-block"><img src="/sites/all/themes/boot2017/logo/en/wider/2400.png" alt="South Ural State University (national research university)" class="hidden-xs hidden-sm hidden-print"><img src="/sites/all/themes/boot2017/logo/en/short/290.png" alt="South Ural State University" class="visible-xs-block hidden-print"><img src="/sites/all/themes/boot2017/logo/en/wide/1170.png" alt="South Ural State University" class="visible-sm-block hidden-print"></a>
+                <div class="header-navigation">
+    <section id="block-block-19" class="block block-block clearfix">
+
+      
+  <p><a href="https://www.topuniversities.com/universities/south-ural-state-university-national-research-university#372363" class="logo-ranked" rel="nofollow"><img alt="Ranked 2020" class="visible-sm-block" src="/sites/all/themes/boot2017/logo/en/rd20-sm.png" /> <img alt="Ranked 2020" class="hidden-xs hidden-sm" src="/sites/all/themes/boot2017/logo/en/rd20-md.png" /></a> <a class="logo-glosic" href="https://glosic.susu.ru/"><img alt="2020 Global Smart Industry Conference" class="hidden-xs" src="/1pg/glosic-60px-5b.png" /></a></p>
+
+</section>
+<section id="block-sphinxdrupal-sphinxdrupal" class="block block-sphinxdrupal clearfix">
+
+      
+  <form class="form-search content-search" action="/en" method="post" id="sphinxdrupal-search-box" accept-charset="UTF-8"><div><div class="container-inline"><div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-keywords" name="keywords" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-default"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+<span class="sr-only">Search</span></button></span></div><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-oc9Vivt34n1rcG5Z4aYWQqANQ11cm1hkpIbWdVJ8C-I" />
+<input type="hidden" name="form_id" value="sphinxdrupal_search_box" />
+</div></form>
+</section>
+<section id="block-locale-language" class="block block-locale clearfix">
+
+      
+  <ul class="language-switcher-locale-url"><li class="ru first"><a href="/ru" class="language-link" xml:lang="ru">Русский</a></li>
+<li class="en active"><a href="/en" class="language-link active" xml:lang="en">English</a></li>
+<li class="ar"><a href="/ar" class="language-link" xml:lang="ar">العربية</a></li>
+<li class="zh-hans last"><a href="/zh" class="language-link" xml:lang="zh-hans">简体中文</a></li>
+</ul>
+</section>
+      <a data-toggle="collapse" data-target="#a11y"
+        aria-expanded="true" aria-controls="a11y"
+        id="a11y-link" itemprop="copy">Version for visually impaired</a>
+  </div>
+      </div>
+  <div id="a11y" class="collapse" aria-labelledby="a11y-link">
+    <div class="row">
+      <div class="col-sm-3 col-sm-offset-9">
+        <button type="button" class="btn btn-default" id="btn-RESET"
+          title="Reset accessibility options — return to usual version">Usual version</button>
+      </div>
+      <div class="col-sm-3">
+        <label for="group-size">Font size</label>
+        <div class="btn-group" role="group" aria-label="Font size" id="group-size">
+          <button type="button" class="btn btn-default" id="btn-size-large" title="Large">L</button>
+          <button type="button" class="btn btn-default" id="btn-size-medium" title="Medium">M</button>
+          <button type="button" class="btn btn-default" id="btn-size-normal" title="Small">S</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <label for="group-spacing">Letter spacing</label>
+        <div class="btn-group" role="group" aria-label="" id="group-spacing">
+          <button type="button" class="btn btn-default" id="btn-spacing-wide">Large</button>
+          <button type="button" class="btn btn-default" id="btn-spacing-normal">Normal</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <label for="group-family">Font family</label>
+        <div class="btn-group" role="group" aria-label="Font family" id="group-family">
+          <button type="button" class="btn btn-default" id="btn-family-serif">Serif</button>
+          <button type="button" class="btn btn-default" id="btn-family-normal">Sans serif</button>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <label for="group-color">Color</label>
+        <div class="btn-group" role="group" aria-label="Color" id="group-color">
+          <button type="button" class="btn btn-default" id="btn-color-black" title="Black">K</button>
+          <button type="button" class="btn btn-default" id="btn-color-white" title="White">W</button>
+          <button type="button" class="btn btn-default" id="btn-color-normal" title="Normal">N</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <div class="navbar navbar-default row">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-collapsed">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse" id="primary-collapsed">
+        <nav role="navigation">
+          <ul class="menu nav navbar-nav"><li class="first expanded menu-item-15277 dropdown"><a href="https://www.susu.ru/en/about/our-susu" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">University <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-14566"><a href="/en/university/word-rector">A Word from the Rector</a></li>
+<li class="leaf menu-item-8836"><a href="/en/university/glance">SUSU at a Glance</a></li>
+<li class="leaf menu-item-14608"><a href="/en/about-university">About University</a></li>
+<li class="leaf menu-item-9420"><a href="/en/project-5-100">Project 5-100</a></li>
+<li class="leaf menu-item-14591"><a href="/en/university/governance">Governance</a></li>
+<li class="leaf menu-item-13819"><a href="/en/university/schools-and-institutes">Schools and Institutes</a></li>
+<li class="last leaf menu-item-15850"><a href="/en/university/rankings">Rankings</a></li>
+</ul></li>
+<li class="expanded menu-item-15275 dropdown"><a href="https://www.susu.ru/en/education-0" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Education <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-15278"><a href="/en/education/innovation-education">Innovation in Education</a></li>
+<li class="leaf menu-item-17716"><a href="/en/bachelors-specialist-degree-programs">Bachelor&#039;s &amp; Specialist Degree Programs</a></li>
+<li class="leaf menu-item-15803"><a href="/en/education/masters-degree-programs">Master&#039;s Degree Programs</a></li>
+<li class="leaf menu-item-17135"><a href="/en/education/english-taught-programs">English-Taught Programs</a></li>
+<li class="leaf menu-item-15804"><a href="/en/education/phd-degree-programs">Ph.D. Degree Programs</a></li>
+<li class="leaf menu-item-15818"><a href="/en/education/foundation-program">Foundation Program</a></li>
+<li class="last leaf menu-item-8922"><a href="/en/education/distance-education">Distance Education</a></li>
+</ul></li>
+<li class="expanded menu-item-7166 dropdown"><a href="https://www.susu.ru/en/programs/education-programs-foreign-students/why" title="Applicants" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Admissions <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-17363"><a href="/en/admissions-2022">Admissions 2021</a></li>
+<li class="leaf menu-item-15304"><a href="/en/programs/education-programs-foreign-students/why">Why SUSU</a></li>
+<li class="leaf menu-item-15815"><a href="/en/programs/education-programs-foreign-students/admission-trajectory">Admission Trajectory</a></li>
+<li class="leaf menu-item-15807"><a href="/en/programs/education-programs-foreign-students/government-scholarship">Government Scholarship</a></li>
+<li class="leaf menu-item-15808"><a href="/en/programs/education-programs-foreign-students/when-you-arrive">When you arrive</a></li>
+<li class="leaf menu-item-17714"><a href="/en/who-can-enter-territory-russian-federation">Entry of International Students</a></li>
+<li class="leaf menu-item-15305"><a href="/en/programs/education-programs-foreign-students/applying-student-visa">Student Visa</a></li>
+<li class="last leaf menu-item-17022"><a href="/en/programs/education-programs-foreign-students/important-information">Important Information</a></li>
+</ul></li>
+<li class="expanded menu-item-8850 dropdown"><a href="https://www.susu.ru/en/research" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Research & Innovations <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-17442"><a href="/en/labs-centres/international-research-laboratories">International Research Laboratories</a></li>
+<li class="leaf menu-item-13216"><a href="/en/research-and-innovations/at-a-glance">Research &amp; Innovations at a Glance</a></li>
+<li class="leaf menu-item-17090"><a href="/en/laboratories-and-centres/world-class-ural-region-research-and-education-centre-advanced-industrial">World-Class Ural Region Research</a></li>
+<li class="leaf menu-item-14757"><a href="/en/research-and-Innovations/national-research-university">Research Initiatives</a></li>
+<li class="leaf menu-item-15279"><a href="/en/laboratories-and-centres/university-journals">University Journals</a></li>
+<li class="leaf menu-item-14801"><a href="/en/laboratories-and-centres/research-innovation-services">Research &amp; Innovation Services</a></li>
+<li class="last leaf menu-item-14770"><a href="/en/laboratories-and-centres">Labs &amp; Centres</a></li>
+</ul></li>
+<li class="expanded menu-item-14854 dropdown"><a href="https://www.susu.ru/en/international-relations-0/international-relations-glance" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">International Relations <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-14856"><a href="/en/international-relations-0/international-relations-glance">International Relations at a Glance</a></li>
+<li class="leaf menu-item-14954"><a href="/en/international-relations-0/useful-information/opportunities-abroad">Opportunities Abroad</a></li>
+<li class="leaf menu-item-15306"><a href="/en/international-relations-0/useful-information">Useful Information</a></li>
+<li class="leaf menu-item-14766"><a href="/en/international/international-grants-and-partnerships">International Programs and Funds</a></li>
+<li class="last leaf menu-item-14750"><a href="/en/international-relations-0/international-office">International Office</a></li>
+</ul></li>
+<li class="last expanded menu-item-15811 dropdown"><a href="/en/chelyabinsk-chelyabinsk-region" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Chelyabinsk <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-15814"><a href="https://www.susu.ru/en/chelyabinsk-chelyabinsk-region" title="">Chelyabinsk &amp; Chelyabinsk region</a></li>
+<li class="leaf menu-item-15841"><a href="/en/chelyabinsk-chelyabinsk-region/four-seasons">Four Seasons</a></li>
+<li class="last leaf menu-item-15809"><a href="/en/chelyabinsk-chelyabinsk-region/chelyabinsk-living-expenses">Living Expenses</a></li>
+</ul></li>
+</ul>        </nav>
+      </div>
+    </div>
+  
+  <div id="carousel-bootstrap" class="carousel slide">
+  
+          <div class="bullets-control">
+      <ol class="carousel-indicators">
+              <li data-target="#carousel-bootstrap" data-slide-to="0" class="bullet active"></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="1" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="2" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="3" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="4" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="5" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="6" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="7" class="bullet "></li>
+              <li data-target="#carousel-bootstrap" data-slide-to="8" class="bullet "></li>
+            </ol>
+    </div>
+      
+  <div class="carousel-inner">
+            <div class="item active">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/bezymyanny-1_3.jpg?itok=z2ahbc6A 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/bezymyanny-1_3.jpg?itok=MFattptj 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/bezymyanny-1_3.jpg?itok=MFattptj"
+            alt="Open Doors">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://longread.susu.ru/open-doors-russian-scholarship-project/" target="_blank">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/zastavka_na_sayt_78_let_yuurgu_angl_1.png?itok=kfuuqNyr 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/zastavka_na_sayt_78_let_yuurgu_angl_1.png?itok=L8-OZR04 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/zastavka_na_sayt_78_let_yuurgu_angl_1.png?itok=L8-OZR04"
+            alt="SUSU Birthday">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/news/2021/12/15/rectors-congratulations-78th-anniversary-university" target="_blank">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/inostrantsy_angl.jpg?itok=0iUDBxEV 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/inostrantsy_angl.jpg?itok=gZpHoB7O 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/inostrantsy_angl.jpg?itok=gZpHoB7O"
+            alt="Info for Foreign Students">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/who-can-enter-territory-russian-federation" target="_blank">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/mezhdunarodnye_laboratorii.jpg?itok=eypzkXk1 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/mezhdunarodnye_laboratorii.jpg?itok=BTl1H68X 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/mezhdunarodnye_laboratorii.jpg?itok=BTl1H68X"
+            alt="">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/labs-centres/international-research-laboratories" target="_blank">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/1_en.jpg?itok=YDi5x8ig 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/1_en.jpg?itok=kg3qdXb3 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/1_en.jpg?itok=kg3qdXb3"
+            alt="Diseases and heart probl">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/news/2021/08/16/artificial-intelligence-will-diagnose-heart-diseases-and-diabetes" target="_blank">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/scientists_offer_a_new_way_._17.11.21.jpg?itok=Q1ox66vy 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/scientists_offer_a_new_way_._17.11.21.jpg?itok=Du6FvQIp 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/scientists_offer_a_new_way_._17.11.21.jpg?itok=Du6FvQIp"
+            alt="accidents on sidewalks">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/news/2021/10/27/scientists-offer-new-way-predict-accidents-sidewalks">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/angloyazychnye_programmy.jpg?itok=Ubspf1Bt 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/angloyazychnye_programmy.jpg?itok=pmEcqSTt 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/angloyazychnye_programmy.jpg?itok=pmEcqSTt"
+            alt="">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/ru/node/867706">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/csa_0.jpg?itok=sDR0DyWw 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/csa_0.jpg?itok=8TEutpoO 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/csa_0.jpg?itok=8TEutpoO"
+            alt="">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/campus-life/student-organizations/center-sociocultural-adaptation">Read More</a></h1>
+          </div>
+        
+      </div>
+
+          <div class="item">
+                            <img
+            srcset="https://www.susu.ru/sites/default/files/styles/wide-xs/public/carousel_images/noc.jpg?itok=n1Qu201X 480w,
+             https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/noc.jpg?itok=J-wIoG4_ 1200w"
+            sizes="(max-width: 480px) 480px,
+              1200px"
+            src="https://www.susu.ru/sites/default/files/styles/wide/public/carousel_images/noc.jpg?itok=J-wIoG4_"
+            alt="">
+        
+        
+
+                  <div class="carousel-caption">
+            <h1><a href="https://www.susu.ru/en/laboratories-and-centres/world-class-ural-region-research-and-education-centre-advanced-industrial" target="_blank">Read more</a></h1>
+          </div>
+        
+      </div>
+
+        </div><!-- .carousel-inner -->
+
+      <!--  next and previous controls here
+          href values must reference the id for this carousel -->
+    <a class="carousel-control left" href="#carousel-bootstrap" data-slide="prev">&lsaquo;</a>
+    <a class="carousel-control right" href="#carousel-bootstrap" data-slide="next">&rsaquo;</a>
+  
+</div>
+
+      <div class="navbar navbar-inverse row">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#secondary-collapsed">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse" id="secondary-collapsed">
+        <nav role="navigation">
+          <ul class="menu nav navbar-nav secondary"><li class="first expanded menu-item-15822 dropdown"><a href="/en/why" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Staff <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-15836"><a href="https://www.susu.ru/en/why" title="">Why SUSU</a></li>
+<li class="leaf menu-item-15825"><a href="/en/why/academic-research-positions">Academic &amp; Research Positions</a></li>
+<li class="leaf menu-item-15829"><a href="/en/why/postdoctoral-positions">Postdoctoral Positions</a></li>
+<li class="leaf menu-item-15831"><a href="/en/why/projects-postdocs">Projects for Postdocs</a></li>
+<li class="leaf menu-item-15833"><a href="/en/why/working-visa">Working Visa</a></li>
+<li class="leaf menu-item-15839"><a href="/en/why/expenses-upon-arrival">Expenses Upon Arrival</a></li>
+<li class="leaf menu-item-15827"><a href="/en/why/forms-documents">Forms &amp; Documents</a></li>
+<li class="leaf menu-item-15835"><a href="/en/why/key-contacts">Key Contacts</a></li>
+<li class="last leaf menu-item-15295"><a href="/en/why/health-and-rest">Health and Rest</a></li>
+</ul></li>
+<li class="expanded menu-item-8845 dropdown"><a href="/en/campus-life" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Students <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-14862"><a href="/en/campus-life/university-life-glance">University Life at a Glance</a></li>
+<li class="leaf menu-item-15790"><a href="/en/campus-life/association-international-students-and-alumni">Association of International Students and Alumni</a></li>
+<li class="leaf menu-item-17130"><a href="/en/campus-life/health-and-rest">Health and Rest</a></li>
+<li class="leaf menu-item-15280"><a href="/en/studlife">StudLIFE</a></li>
+<li class="leaf menu-item-15281"><a href="/en/campus-life/student-organizations">Student Organizations</a></li>
+<li class="leaf menu-item-8848"><a href="/en/arts-and-culture">Arts &amp; Culture</a></li>
+<li class="leaf menu-item-15292"><a href="/en/university-museums">University Museums</a></li>
+<li class="leaf menu-item-15283"><a href="/en/campus-life/students-media">University Media</a></li>
+<li class="leaf menu-item-8846"><a href="/en/athletics">Sport</a></li>
+<li class="leaf menu-item-15282"><a href="/en/campus-life/map-university-campus">Map of University Campus</a></li>
+<li class="last leaf menu-item-16523"><a href="http://project759382.tilda.ws/" title="">SUSU Campus</a></li>
+</ul></li>
+<li class="expanded menu-item-15302 dropdown"><a href="https://www.susu.ru/en/alumni" title="" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Alumni <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-15690"><a href="/en/alumni/global-alumni-alliance">Global Alumni Alliance</a></li>
+<li class="leaf menu-item-15692"><a href="https://www.susu.ru/en/alumni" title="">Information for Alumni</a></li>
+<li class="last leaf menu-item-17469"><a href="/en/education/open-doors-olympiad">The Open Doors Olympiad</a></li>
+</ul></li>
+<li class="collapsed menu-item-6705"><a href="https://www.susu.ru/en/partners-0" title="Partners">Partners</a></li>
+<li class="last expanded menu-item-7014 dropdown"><a href="https://www.susu.ru/en/center-information-public-relations-and-monitoring-office-marketing-and-strategic-communications" title="Information for Mass media and Guests" data-target="#" class="dropdown-toggle" data-toggle="dropdown">Media & Guests <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf menu-item-17083"><a href="/en/media-relations-and-monitoring-department">Media Relations and Monitoring Department</a></li>
+<li class="last leaf menu-item-17082"><a href="/en/media-relations-and-monitoring-department/smart-university">“SMART University”</a></li>
+</ul></li>
+</ul>        </nav>
+      </div>
+    </div>
+  
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+      </header> <!-- /#page-header -->
+
+  <div class="row content-sidebars">
+
+    
+    <section class="content-column col-sm-12">
+                  <a id="main-content"></a>
+                                                        
+              <section>
+          <div class="header-front">
+            <div class="col-sm-6">
+              <h2 class="uppercase">News</h2>
+            </div>
+            <div class="col-sm-6 text-right">
+              <a href="/en/news">All news &gt;&gt;</a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="view view-news view-id-news view-display-id-block view-dom-id-e0bb5df396bd1fc566c41ec03192e727">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/19/international-tea-day"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/foto_1_43.jpg?itok=hjG0t9tL" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">19.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/19/international-tea-day">International Tea Day</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/16/trains-professionals-field-financial-markets-and-institutions"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/foto_1_19.jpg?itok=3QDUAEBl" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">16.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/16/trains-professionals-field-financial-markets-and-institutions">SUSU Trains Professionals in the Field of Financial Markets and Institutions</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/15/rectors-congratulations-78th-anniversary-university"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/wm2a2878_0.jpg?itok=AT0hNWxF" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">15.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/15/rectors-congratulations-78th-anniversary-university">SUSU Rector&#039;s congratulations on the 78th anniversary of the University</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/15/germany-russia-become-bachelor-mechatronics-and-robotics"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/foto_1_87.jpg?itok=X2iz3zVO" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">15.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/15/germany-russia-become-bachelor-mechatronics-and-robotics">From Germany to Russia to Become a Bachelor in Mechatronics and Robotics </a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/15/istis-technologists-present-scientific-projects-diet-improving"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/biskvit.jpg?itok=sWUxA50G" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">15.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/15/istis-technologists-present-scientific-projects-diet-improving">ISTiS Technologists Present Scientific Projects on Diet Improving</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/14/eufactcheck-recommends-article-imssh-masters-students-must-read-all"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/image-21-10-20-02-33.jpeg?itok=KQiNHnuL" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">14.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/14/eufactcheck-recommends-article-imssh-masters-students-must-read-all">Eufactcheck Recommends Article by IMSSH Master’s Students as Must-Read for All</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/13/south-ural-state-university-trains-specialists-field-internet-things"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/foto_1_18.jpg?itok=QKYu7Dzz" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">13.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/13/south-ural-state-university-trains-specialists-field-internet-things">South Ural State University Trains Specialists in the Field of Internet of Things</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last col-xs-12 col-sm-6 col-md-3">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/en/news/2021/12/10/newspaper-65-year-journey"><img typeof="foaf:Image" class="img-responsive" src="https://www.susu.ru/sites/default/files/styles/news_for_front/public/field/image/dsc_0953_0.jpg?itok=BwiWBBE9" width="456" height="342" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">10.12</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/en/news/2021/12/10/newspaper-65-year-journey">SUSU Newspaper: A 65-year Journey</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>           </div>
+        </section>
+                  <section>
+            <div class="header-front">
+              <div class="col-sm-6">
+                <h2 class="uppercase">Applicants</h2>
+              </div>
+              <!--div class="col-sm-6 text-right">
+              </div-->
+            </div>
+            <div class="row block-18">
+	<div class="col-sm-6 col-md-3" id="applicant-choose"><a href="http://studyinrussia.ru/en/study-in-russia/universities/susu/programs/" rel="nofollow">Choose and Apply</a></div>
+	<div class="col-sm-6 col-md-3" id="applicant-life"><a href="/en/campus-life">Student’s Life</a></div>
+	<div class="col-sm-6 col-md-3" id="applicant-photo"><a href="/461202">Photogallery</a></div>
+	<div class="col-sm-6 col-md-3" id="applicant-ask"><a href="/en/feedback">Ask a question</a></div></div>
+<div class="row block-18">
+	<div class="col-md-6" id="applicant-region"><a href="/en/chelyabinsk-chelyabinsk-region">Chelyabinsk &amp; Chelyabinsk Region</a></div>
+	<div class="col-md-6" id="applicant-opinion"><a href="/en/opinions-foreign-students-studying">Opinions: Foreign Students on&nbsp;Studying at&nbsp;SUSU</a></div></div>
+<p>&nbsp;</p>          </section>
+                <section>
+          <div class="header-front">
+            <div class="col-sm-6">
+              <h2 class="uppercase">Video</h2>
+            </div>
+            <div class="col-sm-6 text-right">
+              <a href="/en/video/all">All videos &gt;&gt;</a>
+            </div>
+          </div>
+          <div class="row video block-16"><div class="col-md-6 video-iframe-shortcode">
+	<a class="youtube colorbox-load" href="https://www.youtube.com/embed/uBJAJX-yOsQ?width=1024&amp;height=700&amp;iframe=true&amp;rel=0&amp;wmode=transparent">
+	<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/uBJAJX-yOsQ" width="100%"></iframe></a></div><div class="col-sm-6 col-md-3 video-preview-shortcode">
+		  <a class="youtube colorbox-load" href="https://www.youtube.com/embed/niSfmoJVjzc?width=1024&amp;height=700&amp;iframe=true&amp;rel=0&amp;wmode=transparent">
+		  <img alt="Supercomputer Simulation Laboratory" class="img-responsive" src="//img.youtube.com/vi/niSfmoJVjzc/hqdefault.jpg" typeof="foaf:Image">
+		  <span>Supercomputer Simulation Laboratory</span></a></div><div class="col-sm-6 col-md-3 video-preview-shortcode">
+		  <a class="youtube colorbox-load" href="https://www.youtube.com/embed/qnpb-Wb8VK8?width=1024&amp;height=700&amp;iframe=true&amp;rel=0&amp;wmode=transparent">
+		  <img alt="Research Laboratory for Mechanics, Laser Processes and Digital Production Technologies" class="img-responsive" src="//img.youtube.com/vi/qnpb-Wb8VK8/hqdefault.jpg" typeof="foaf:Image">
+		  <span>Research Laboratory for Mechanics, Laser Processes and Digital Production Technologies</span></a></div><div class="col-sm-6 col-md-3 video-preview-shortcode">
+		  <a class="youtube colorbox-load" href="https://www.youtube.com/embed/EO0gzYVK0tI?width=1024&amp;height=700&amp;iframe=true&amp;rel=0&amp;wmode=transparent">
+		  <img alt="Tran Thu Ha (Vietnam)" class="img-responsive" src="//img.youtube.com/vi/EO0gzYVK0tI/hqdefault.jpg" typeof="foaf:Image">
+		  <span>Tran Thu Ha (Vietnam)</span></a></div><div class="col-sm-6 col-md-3 video-preview-shortcode">
+		  <a class="youtube colorbox-load" href="https://www.youtube.com/embed/0xO-HJKtYBg?width=1024&amp;height=700&amp;iframe=true&amp;rel=0&amp;wmode=transparent">
+		  <img alt="Laboratory of Intelligent Information and Measurement Systems of Process Control Based on the Distri" class="img-responsive" src="//img.youtube.com/vi/0xO-HJKtYBg/hqdefault.jpg" typeof="foaf:Image">
+		  <span>Laboratory of Intelligent Information and Measurement Systems of Process Control Based on the Distri</span></a></div></div>
+        </section>
+                <section>
+          <div class="header-front virtual">
+            <div class="col-sm-6">
+              <h2><a href="https://virtual.susu.ru">Virtual SUSU</a></h2>
+            </div>
+                        <div class="col-sm-6 text-right" id="campus-map-header-wide"><a href="/en/university-campus">Campus map &gt;&gt;</a></div>
+          </div>
+          <div class="row">
+            <div class="col-md-4 big-icons"><ul class="menu nav"><li class="first leaf menu-item-9213"><a href="https://virtual.susu.ru/en.html" title="">Education</a></li>
+<li class="leaf menu-item-9212"><a href="https://virtual.susu.ru/en.html#science" title="">Science and innovations</a></li>
+<li class="last leaf menu-item-9211"><a href="https://virtual.susu.ru/en.html#culture" title="">Culture</a></li>
+</ul></div>
+            <div class="col-md-4 big-icons"><ul class="menu nav"><li class="first leaf menu-item-9216"><a href="https://virtual.susu.ru/en.html#sport" title="">Sport and recreation</a></li>
+<li class="leaf menu-item-9214"><a href="https://virtual.susu.ru/en.html#international" title="">International activities</a></li>
+<li class="last leaf menu-item-9215"><a href="https://virtual.susu.ru/en.html#campus" title="">Campus</a></li>
+</ul></div>
+            <div id="campus-map-header-narrow"><a href="/en/university-campus">Campus map</a></div>
+            <div class="col-md-4 shrink-images"><a href="/en/university-campus"><img src="/sites/all/themes/boot2017/map-preview-37x23.jpg" alt="Campus map"></a></div>
+          </div>
+        </section>
+          </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+    <div class="region region-footer">
+    <section id="block-block-8" class="block block-block clearfix">
+
+      
+  <div class="kremlin">&nbsp;</div>
+
+<div class="darkblue container">
+<div class="row">
+<div class="col-md-4 col-md-push-4 text-center"><!--a href="/ru/about/official">Official data</a--></div>
+
+<div class="col-sm-6 col-md-4 col-md-pull-4">
+<ul class="feedback">
+	<li><a href="/en/feedback">Ask a Question</a></li>
+	<li><!--Hit <kbd>Ctrl+Enter</kbd> to --><a href=/contact/feedback/susu/ru>Report an error</a></li>
+</ul>
+</div>
+
+<div class="col-sm-6 col-md-4 social"><a class="btn" href="/en/news/common/feed" id="icon-rss" role="button" title="RSS feed of SUSU news">RSS</a><a href="https://www.youtube.com/channel/UCHPBbFncaCIur8t3O4RmxHA/" class="btn" id="icon-youtube" role="button" title="Channel SUSU-TV at YouTube (in Russian)" rel="nofollow">SUSU at YouTube</a><!--a class="btn" href="http://allrussiatv.ru/cheljabinsk/" id="icon-allrussia" role="button" title="SUSU-TV at federal media portal AllRussiaTV">SUSU-TV at AllRussiaTV</a--><a href="https://twitter.com/state_ural" class="btn" id="icon-twitter" role="button" title="SUSU news in Twitter" rel="nofollow">SUSU news in Twitter</a><a href="http://vk.com/susu4you" class="btn" id="icon-vk" role="button" title="Group at VK.com" rel="nofollow">SUSU at VK</a><a href="https://www.facebook.com/southuralstateunity" class="btn" id="icon-fb" role="button" title="Group at Facebook" rel="nofollow">SUSU at Facebook</a><a href="https://instagram.com/susu.official/" class="btn" id="icon-instagram" role="button" title="SUSU in Instagram" rel="nofollow">SUSU in Instagram</a><a href="https://weibo.com/7482700284/" class="btn" id="icon-weibo" role="button" title="SUSU in Weibo" rel="nofollow">SUSU in Weibo</a></div>
+</div>
+</div>
+
+</section>
+<section id="block-block-14" class="block block-block clearfix">
+
+      
+  <section class="block block-dynamic-banner banners clearfix hidden-print hide-not-front" id="block-dynamic-banner-dynamic-banner-block">
+<div id="banner"><a href="http://www.eranetplus.ub.edu/eranet/" rel="nofollow"><img alt="Eranet Plus" src="/1pg/eranetplus-145x60.png" /></a> <a href="http://www.5top100.com" rel="nofollow"><img alt="5-100" src="/1pg/bn-5-100-en.jpg" /></a> <a href="http://studyinrussia.ru/en/study-in-russia/universities/susu/" rel="nofollow"><img alt="Study in Russia" src="/1pg/study-in-Russia-en.png" /></a><a href="https://www.topuniversities.com/universities/south-ural-state-university-national-research-university" rel="nofollow"><img alt="EECA ranked" src="/1pg/eeca-ranked.png" /><img alt="BRICS ranked" src="/1pg/brics-ranked.png" /></a></div>
+</section>
+
+</section>
+<section id="block-block-9" class="block block-block col-md-6 copyright clearfix">
+
+      
+  <p>Copyright © 1995–2021 Federal State Autonomous Educational Institution of Higher Education “South Ural State University (national research university)”<br />
+<span class="hidden-print">FSAEIHE SUSU (NRU)</span><br />
+<span>Constitutor is </span><a href="https://minobrnauki.gov.ru/" lang="ru" title="in Russian" rel="nofollow">Ministry of Science and Higher Education of the Russian Federation</a>.</p>
+
+<p><span class="hidden-print">Please refer to http://<strong>susu.ru</strong>/ when you use information from this site.</span></p>
+
+</section>
+<section id="block-block-10" class="block block-block col-md-6 contacts-footer clearfix">
+
+      
+  <p><a href="/en/map" title="map">76, Lenin prospekt, Chelyabinsk</a>, Russia, 454080<br />
+Phone/fax: <a href="tel:+7-351-2679900">+7 (351) 267-99-00</a><br />
+E-mail: <a href=/contact/info/susu/ru>info[at]susu[dot]ru</a><br />
+Media Relations and Monitoring Department: <a href=/contact/press/susu/ru>press[at]susu[dot]ru</a><br />
+Technical support of the web site: <a href=/contact/support/susu/ru>support[at]susu[dot]ru</a></p>
+
+<p class="text-right"><a href="/en/sitemap">Site map</a></p>
+
+</section>
+  </div>
+</footer>
+<!-- Yandex.Metrika counter --><script>(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter11805838 = new Ya.Metrika({id:11805838, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true, ut:"noindex"}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/11805838?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71787430-1', 'auto');
+  ga('send', 'pageview');
+</script>
+    <div class="region region-page-bottom">
+    <div id="typo-report-wrapper"><div id="typo-report-content">
+  <div id="typo-report-message">
+    <div id="typo-message">
+You are reporting a typo in the following text:      <div id="typo-context-div"></div>
+Simply click the "Send typo report" button to complete the report. You can also include a comment.    </div>
+    <div id="typo-form">
+<form action="/en" method="post" id="typo-report-form" accept-charset="UTF-8"><div><input type="hidden" name="typo_uid" value="0" />
+<input type="hidden" name="form_build_id" value="form-TRFH9Jwp3DvUe4HAFA2OMQiFRxOjnfY96dBjoJq-Jgo" />
+<input type="hidden" name="form_id" value="typo_report_form" />
+<div class="form-item form-item-typo-comment form-type-textfield form-group"> <label class="control-label" for="edit-typo-comment">Typo comment</label>
+<input class="form-control form-text" type="text" id="edit-typo-comment" name="typo_comment" value="" size="60" maxlength="128" /></div><input id="typo-context" type="hidden" name="typo_context" value="" />
+<input id="typo-url" type="hidden" name="typo_url" value="" />
+<button class="btn btn-primary form-submit" type="submit" id="edit-send-typo-report" name="op" value="Send typo report">Send typo report</button>
+</div></form>    </div>
+  </div>
+  <div id="typo-report-result" style="display: none;">
+  </div>
+</div>
+<div id="tmp"></div></div>  </div>
+<script>window.eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://www.susu.ru/sites/default/files/js/js_lcej-wnhkuKN7X2sAkXYDMoQiGnYWSLvXW93M0RAg4Y.js"></script>
+<script src="https://www.susu.ru/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+  <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?160",t.onload=function(){VK.Retargeting.Init("VK-RTRG-334863-9YhwK"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-334863-9YhwK" style="position:fixed; left:-999px;" alt=""/></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPB2B6F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</body>
+</html>

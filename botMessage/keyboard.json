@@ -1,0 +1,44 @@
+{
+   "inline":true,
+   "buttons":[
+      [
+         {
+            "action":{
+               "type":"open_link",
+               "link":"https://www.susu.ru/",
+               "label":"я здесь учусь"
+            }
+         }
+      ],
+      [
+         {
+            "action":{
+               "type":"callback",
+               "label":"отправь что-нибудь высплывающее)"
+            }
+         }
+      ],
+      [
+         {
+            "action":{
+               "type":"text",
+               "label":"Расскажи шутку",
+               "payload":{
+                  "button": "2"
+               }
+            },
+            "color":"primary"
+         },
+         {
+            "action":{
+               "type":"text",
+               "label":"Что ты умеешь?",
+               "payload":{
+                  "button": "2"
+               }
+            },
+            "color":"primary"
+         } 
+      ]
+   ]
+}
